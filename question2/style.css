@@ -1,0 +1,17 @@
+.verifiedEmail {
+  color: green;
+}
+
+.verifiedEmail::before {
+  color: green;
+  content: '\2713';
+}
+
+.invalidEmail{
+  color: red;
+}
+.invalidEmail::before {
+  color: red;
+  content: '\00d7';
+  font-size: 20px;
+}
