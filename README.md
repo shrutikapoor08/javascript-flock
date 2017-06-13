@@ -22,3 +22,7 @@ TODO:
 1. Debug error with the Meetup API's request.There seems to be an error thrown after the request is being made. This is probably due to incorrect url parameters.
 2. Update the UI with the responseText received from above. 
 3. Style the UI after responseText is rendered. 
+
+Resources:
+1. https://stackoverflow.com/questions/19596622/grabbing-certain-values-in-this-json-file-from-the-meetup-api-doesnt-work
+2. https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started
